@@ -1,4 +1,6 @@
 # Projects
+Some of my front-end work.
+
 🍿 <a href="https://github.com/kristjanv001/jupiter-clone" target="_blank"> Jupiter Clone - Netflix-style Slider Component</a>
 
 🧘‍♂️ <a href="https://www.ayre.info/" target="_blank">Ayre - Meditation App Landing Page</a>
