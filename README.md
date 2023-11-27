@@ -12,7 +12,7 @@ Some of my front-end work.
 * Angular
 * swiperjs
 
-📿 <a href="https://github.com/kristjanv001/MeditationTimer" target="_blank">Ayre - Meditation App</a>
+📿 <a href="https://github.com/kristjanv001/meditation-timer-ios" target="_blank">Ayre - Meditation App</a>
 
 * Swift / SwiftUI
 * Apple Health integration
