@@ -39,6 +39,12 @@ Some of my front-end work.
 * FakeStore API
 * Ant Design
 
+📚 <a href="https://github.com/kristjanv001/books-to-read" target="_blank">Books To Read - Fullstack CRUD Reading List</a>
+
+* React
+* Material UI
+* Firebase
+
 
  
 
