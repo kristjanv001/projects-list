@@ -28,7 +28,7 @@ Some of my front-end work.
 * HTML
 * CSS
 
-🎸 <a href="https://www.albumaura.com/" target="_blank">Album Aura - Random Album Generator</a>
+🎸 <a href="https://albumaura-dot-com.vercel.app/" target="_blank">Album Aura - Random Album Generator</a>
 
 * Next
 * Spotify API
