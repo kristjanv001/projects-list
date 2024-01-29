@@ -1,6 +1,12 @@
 # Projects
 Some of my front-end work.
 
+🌎 <a href="https://github.com/kristjanv001/country-labs/tree/main" target="_blank">Country Labs - Interactive Map</a>
+
+* Angular
+* Tailwind
+* spartan/ui
+
 👨‍💻 <a href="https://www.kristjanvingel.com" target="_blank">My Blog / Website</a>
 
 * Next
