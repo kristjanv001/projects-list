@@ -1,6 +1,11 @@
 # Projects
 Some of my front-end work.
 
+📝 <a href="https://github.com/kristjanv001/comments-frontend" target="_blank">Cool Comments - Mock Comment's Section</a>
+
+* Angular
+* Tailwind
+
 🌎 <a href="https://github.com/kristjanv001/country-labs/tree/main" target="_blank">Country Labs - Interactive Map</a>
 
 * Angular
