@@ -2,6 +2,8 @@
 
 🧐 <a href="https://github.com/kristjanv001/quiz-game" target="_blank">JS Quiz - CLI app written in Go</a>
 
+* Go
+
 📝 <a href="https://github.com/kristjanv001/comments-frontend" target="_blank">Cool Comments - Mock Comment's Section</a>
 
 * Angular
