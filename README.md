@@ -1,5 +1,10 @@
 # Projects
-Some of my front-end work.
+
+## Some of non-front-end apps
+
+🧐 <a href="https://github.com/kristjanv001/quiz-game" target="_blank">JS Quiz - CLI app written in Go</a>
+
+## Some of my front-end work
 
 📝 <a href="https://github.com/kristjanv001/comments-frontend" target="_blank">Cool Comments - Mock Comment's Section</a>
 
