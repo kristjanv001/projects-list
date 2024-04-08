@@ -1,5 +1,10 @@
 # Projects
 
+📦 <a href="https://github.com/kristjanv001/sokoban-js" target="_blank">Boxshifters - A Sokoban Puzzle Game</a>
+
+* TypeScript
+* Vite
+
 📝 <a href="https://github.com/kristjanv001/comments-frontend" target="_blank">Cool Comments - Mock Comment's Section</a>
 
 * Angular
