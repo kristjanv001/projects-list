@@ -1,5 +1,11 @@
 # Projects
 
+🦁 <a href="https://github.com/kristjanv001/virtual-zoo-frontend" target="_blank">Virtual Zoo - A Fullstack CRUD App</a>
+
+* Angular
+* NestJS
+* PostgreSQL + Docker (develop branch)
+
 📦 <a href="https://github.com/kristjanv001/sokoban-js" target="_blank">Boxshifters - A Sokoban Puzzle Game</a>
 
 * TypeScript
