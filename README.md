@@ -2,12 +2,8 @@
 
 🦁 <a href="https://github.com/kristjanv001/virtual-zoo-frontend" target="_blank">Virtual Zoo - A Fullstack CRUD App</a>
 
-Frontend:
-https://github.com/kristjanv001/virtual-zoo-frontend
-
-Backend:
-https://github.com/kristjanv001/virtual-zoo-backend
-
+* Frontend: https://github.com/kristjanv001/virtual-zoo-frontend
+* Backend: https://github.com/kristjanv001/virtual-zoo-backend
 * Angular
 * NestJS
 * PostgreSQL + Docker (develop branch)
