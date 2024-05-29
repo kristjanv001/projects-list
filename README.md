@@ -1,11 +1,3 @@
-# Projects
-
-🗓️ <a href="https://github.com/kristjanv001/calendar-app" target="_blank">Schedulify - A Calendar App</a>
-
-* Angular
-* Angular's drag and drop cdk
-* Tailwind
-
 🦁 <a href="https://github.com/kristjanv001/virtual-zoo-frontend" target="_blank">Virtual Zoo - A Fullstack CRUD App</a>
 
 * Frontend: https://github.com/kristjanv001/virtual-zoo-frontend
