@@ -1,5 +1,9 @@
 # Projects
 
+👨‍💻 <a href="https://www.kristjanvingel.com" target="_blank">My Personal Website | Blog</a>
+
+* Angular + Analog
+
 🗓️ <a href="https://github.com/kristjanv001/calendar-app" target="_blank">Schedulify - A Calendar App</a>
 
 * Angular
@@ -29,12 +33,6 @@
 * Angular
 * Tailwind
 * spartan/ui
-
-👨‍💻 <a href="https://www.kristjanvingel.com" target="_blank">My Blog / Website</a>
-
-* Next
-* Node
-* styled jsx
 
 🍿 <a href="https://github.com/kristjanv001/jupiter-clone" target="_blank"> Jupiter Clone - Netflix-style Slider Component</a>
 
