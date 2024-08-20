@@ -1,5 +1,8 @@
 # Projects
 
+Order is mostly from newest to oldest.
+
+
 👨‍💻 <a href="https://www.kristjanvingel.com" target="_blank">My Personal Website | Blog</a>
 
 * Angular + Analog
