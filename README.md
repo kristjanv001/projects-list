@@ -4,6 +4,11 @@
 
 * Angular + Analog
 
+📸 <a href="https://github.com/kristjanv001/image-scroller" target="_blank">Photo Gallery - An Image Gallery app</a>
+
+* Angular
+* Tailwind
+
 🗓️ <a href="https://github.com/kristjanv001/calendar-app" target="_blank">Schedulify - A Calendar App</a>
 
 * Angular
