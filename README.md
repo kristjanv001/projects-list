@@ -52,11 +52,6 @@ Order is mostly from newest to oldest.
 * Swift / SwiftUI
 * Apple Health integration
 
-🧘‍♂️ <a href="https://www.ayre.info/" target="_blank">Ayre - Meditation App Landing Page</a>
-
-* HTML
-* CSS
-
 🎸 <a href="https://albumaura-dot-com.vercel.app/" target="_blank">Album Aura - Random Album Generator</a>
 
 * Next
