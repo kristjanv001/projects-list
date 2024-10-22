@@ -11,6 +11,9 @@ Order is mostly from newest to oldest.
 
 * Angular
 * Tailwind
+* Java Spring Boot
+* AWS
+* Cloudinary
 
 🗓️ <a href="https://github.com/kristjanv001/calendar-app" target="_blank">Schedulify - A Calendar App</a>
 
